@@ -10,4 +10,4 @@ A respository to hold copies of any competition submission content and links.
 | 5 | Datacamp | August 2022 | - | Can you find a better way to segment your customers? | https://app.datacamp.com/workspace/w/41cfda99-b208-4279-a1e5-5ccafe6cad94 | Python |
 | 6 | Datacamp | November 2022 | Top 15 | Estimating the age of abalone at a seafood farm | https://app.datacamp.com/workspace/w/0ce3e417-71cc-410d-8f27-c159ecd06e21 | R |
 | 7 | Datacamp | November 2022 | - | How can the company improve collaboration? | https://app.datacamp.com/workspace/w/da8456ad-9401-4a8d-8161-3cef8d57780e | Python |
-| 8 | Datacamp | December 2022 | TBC | Which tree species should the city plant? | https://app.datacamp.com/workspace/w/62e39b83-cc85-4f13-a7da-2aaa67e0e893 | Python |
+| 8 | Datacamp | December 2022 | 3rd | Which tree species should the city plant? | https://app.datacamp.com/workspace/w/62e39b83-cc85-4f13-a7da-2aaa67e0e893 | Python |
